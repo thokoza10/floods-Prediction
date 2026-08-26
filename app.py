@@ -10,11 +10,6 @@ Run locally:
 """
 
 import streamlit as st
-st.set_page_config(
-    page_title="Flood Prediction System",
-    page_icon="🌊",
-    layout="wide"
-)
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -40,7 +35,7 @@ from datetime import datetime, timedelta
 # 1. STREAMLIT PAGE CONFIGURATION
 # ==========================================
 st.set_page_config(
-    page_title="FloodForecast AI/ML Studio",
+    page_title="Flood Prediction",
     page_icon="🌊",
     layout="wide",
     initial_sidebar_state="expanded",
