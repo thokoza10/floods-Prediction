@@ -1,0 +1,6 @@
+{
+  "name": "Streamlit Flood Predictor",
+  "description": "Streamlit-powered interactive flood forecasting and machine learning prediction platform using historical and real-time hydrological datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
